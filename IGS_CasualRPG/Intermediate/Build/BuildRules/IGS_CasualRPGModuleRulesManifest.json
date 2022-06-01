@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\UE5\\IGS_CasualRPGGrind\\IGS_CasualRPG\\Source\\IGS_CasualRPG\\IGS_CasualRPG.Build.cs",
+		"C:\\UE5\\IGS_CasualRPGGrind\\IGS_CasualRPG\\Source\\IGS_CasualRPG.Target.cs",
+		"C:\\UE5\\IGS_CasualRPGGrind\\IGS_CasualRPG\\Source\\IGS_CasualRPGEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.2"
+}

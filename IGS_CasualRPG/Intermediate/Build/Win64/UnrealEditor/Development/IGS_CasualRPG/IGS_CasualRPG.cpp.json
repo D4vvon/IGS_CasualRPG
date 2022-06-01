@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\ue5\\igs_casualrpggrind\\igs_casualrpg\\source\\igs_casualrpg\\igs_casualrpg.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\ue5\\igs_casualrpggrind\\igs_casualrpg\\intermediate\\build\\win64\\igs_casualrpgeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\ue5\\igs_casualrpggrind\\igs_casualrpg\\intermediate\\build\\win64\\unrealeditor\\development\\igs_casualrpg\\definitions.igs_casualrpg.h",
+            "c:\\ue5\\igs_casualrpggrind\\igs_casualrpg\\source\\igs_casualrpg\\igs_casualrpg.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
